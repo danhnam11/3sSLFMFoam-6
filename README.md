@@ -47,7 +47,7 @@ Tutorials for RANS/LES of HM3 test case is available in the _tutorial_ directory
 
 ## Authors 
 This package was developed at Clean Combustion & Energy Research Lab., Dept. of Mech. Engineering, Ulsan National Institute of Science and Technology (UNIST), Korea (Prof. C.S. Yoo: https://csyoo.unist.ac.kr/). If you publish results that are obtained using this package, please cite our papers as follows:
-- D. N. Nguyen, C. S. Yoo, 3sSLFMFoam: A package for simulations of turbulent non-premixed flames using three-feed stream steady laminar flamelet model in OpenFOAM, Computer Physics Communications (2024)(submitted).
+- D. N. Nguyen, C. S. Yoo, 3sSLFMFoam: A package for simulations of turbulent non-premixed flames using three-feed stream steady laminar flamelet model in OpenFOAM, Computer Physics Communications (2024)(in preparation).
 
 Contact:
 - danhnam11@gmail.com or nam.nguyendanh@hust.edu.vn 

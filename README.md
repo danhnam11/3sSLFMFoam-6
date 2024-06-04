@@ -1,7 +1,7 @@
 # 3sSLFMFoam-6
 
 ## General Information
-A package for simulations of turbulent nonpremixed flames using three-feed stream steady laminar flamelet model (3s-SLFM) in OpenFOAM 6.0. It is also applicable for traditional two-feed stream configurations using steady laminar flamelet model (SLFM) in which main part of the code for SLFM is developed based on the _flameletFoam_ code (in OF.2.3.x)[1] by M$\"{u}$ller et al. [2].
+A package for simulations of turbulent nonpremixed flames using three-feed stream steady laminar flamelet model (3s-SLFM) in OpenFOAM 6.0. It is also applicable for traditional two-feed stream configurations using steady laminar flamelet model (SLFM) in which main part of the code for SLFM is developed based on the _flameletFoam_ code (in OF.2.3.x)[1] by Muller et al. [2].
 
 ## Flamelet models can be used with this package
 - Steady laminar flamelet model (SLFM) [2, 3].
@@ -54,7 +54,7 @@ Contact:
 
 ## Reference
 - [1] original _flameletFoam_ code: https://github.com/flameletFoam/flameletFoam-2.3.x
-- [2] H. M$\"{u}$ller, F. Ferraro, M. Pfitzner, Implementation of a Steady Laminar Flamelet Model for non-premixed combustion in LES and RANS simulations, in 8th Int. OpenFOAM Workshop, Jeju, Korea, 2013.
+- [2] H. Muller, F. Ferraro, M. Pfitzner, Implementation of a Steady Laminar Flamelet Model for non-premixed combustion in LES and RANS simulations, in 8th Int. OpenFOAM Workshop, Jeju, Korea, 2013.
 - [3] N. Peters, Laminar diffusion flamelet models in non-premixed turbulent combustion, Prog. Engery Combust. Sci. 10 (1984) 319-339.
 - [4] M. Ihme, Y. C. See, LES famelet modeling of a three-stream MILD combustor: Analysis of fame
 sensitivity to scalar infow conditions, Proceedings of the Combustion Institute 33 (2011) 1309-1317
